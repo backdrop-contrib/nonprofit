@@ -1,0 +1,14 @@
+{
+    "_config_name": "field.bundle.node.hero",
+    "bundle": "hero",
+    "entity_type": "node",
+    "view_modes": [],
+    "extra_fields": {
+        "form": {
+            "title": {
+                "weight": "0"
+            }
+        },
+        "display": []
+    }
+}

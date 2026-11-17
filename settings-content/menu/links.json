@@ -1,0 +1,37 @@
+
+{
+  "links": [
+    {
+      "menu": "important-links",
+      "title": "About the Organization",
+      "path": "<front>",
+      "weight": 0,
+      "expanded": false,
+      "hidden": false
+    },
+    {
+      "menu": "important-links",
+      "title": "Our Areas of Work",
+      "path": "<front>",
+      "weight": 1,
+      "expanded": false,
+      "hidden": false
+    },
+    {
+      "menu": "important-links",
+      "title": "News",
+      "path": "<front>",
+      "weight": 2,
+      "expanded": false,
+      "hidden": false
+    },
+    {
+      "menu": "important-links",
+      "title": "Initiatives",
+      "path": "<front>",
+      "weight": 3,
+      "expanded": false,
+      "hidden": false
+    }
+  ]
+}

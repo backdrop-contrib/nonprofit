@@ -1,0 +1,298 @@
+{
+  "content": [
+    {
+      "type": "hero",
+      "title": "We Believe in the Power of People and Community",
+      "path": "home-hero",
+      "status": 1,
+      "promote": 0,
+      "body": {
+        "value": "<h1 class=\"text-4xl md:text-5xl xl:text-[62px] leading-[1.35] font-extrabold mb-6\">When We Come Together for Good, <span class=\"text-lime\">We Build a Better Future.</span></h1>\n<p class=\"text-white/75 leading-9 text-base md:text-lg max-w-xl mb-9\">We empower individuals and strengthen community engagement through sustainable programs and initiatives that make a meaningful difference in people's lives.</p>",
+        "format": "full_html"
+      },
+      "fields": {
+        "field_hero_label": "We Believe in the Power of People and Community",
+        "field_hero_primary_link": {
+          "title": "Explore Our Programs",
+          "url": "<front>"
+        },
+        "field_hero_secondary_link": {
+          "title": "About Us",
+          "url": "<front>"
+        },
+        "field_hero_card_title": "Image Card Title",
+        "field_hero_card_text": "Every initiative is a step toward positive, lasting change.",
+        "field_hero_home": 1,
+        "field_hero_show_statistics": 0,
+        "field_hero_show_about": 0,
+        "field_image": "photo-1559027615-cd4628902d4a.jpg"
+      }
+    },
+    {
+      "type": "statistic",
+      "title": "Years of Giving",
+      "path": "statistics/years-of-giving",
+      "status": 1,
+      "promote": 0,
+      "fields": {
+        "field_stat_number": "15+"
+      }
+    },
+    {
+      "type": "statistic",
+      "title": "Projects and Initiatives",
+      "path": "statistics/projects-and-initiatives",
+      "status": 1,
+      "promote": 0,
+      "fields": {
+        "field_stat_number": "85+"
+      }
+    },
+    {
+      "type": "statistic",
+      "title": "Program Beneficiaries",
+      "path": "statistics/program-beneficiaries",
+      "status": 1,
+      "promote": 0,
+      "fields": {
+        "field_stat_number": "12,000+"
+      }
+    },
+    {
+      "type": "statistic",
+      "title": "Volunteers",
+      "path": "statistics/volunteers",
+      "status": 1,
+      "promote": 0,
+      "fields": {
+        "field_stat_number": "1,200+"
+      }
+    },
+    {
+      "type": "hero",
+      "title": "statistics",
+      "path": "home-statistics",
+      "status": 1,
+      "promote": 0,
+      "fields": {
+        "field_hero_statistics": [
+          {
+            "type": "statistic",
+            "title": "Years of Giving"
+          },
+          {
+            "type": "statistic",
+            "title": "Projects and Initiatives"
+          },
+          {
+            "type": "statistic",
+            "title": "Program Beneficiaries"
+          },
+          {
+            "type": "statistic",
+            "title": "Volunteers"
+          }
+        ],
+        "field_hero_show_statistics": 1
+      }
+    },
+    {
+      "type": "statistic",
+      "title": "Our Vision",
+      "path": "about/our-vision",
+      "status": 1,
+      "promote": 0,
+      "fields": {
+        "field_stat_number": "A proactive community where opportunities for growth and participation are available to everyone."
+      }
+    },
+    {
+      "type": "statistic",
+      "title": "Our Mission",
+      "path": "about/our-mission",
+      "status": 1,
+      "promote": 0,
+      "fields": {
+        "field_stat_number": "Empowering individuals and creating sustainable development solutions."
+      }
+    },
+    {
+      "type": "hero",
+      "title": "About Us / Our Mission",
+      "path": "home-about",
+      "status": 1,
+      "promote": 0,
+      "body": {         
+        "value": "<h2 class=\"text-3xl md:text-4xl font-extrabold leading-[1.5] mt-4 mb-6\">Change Begins <span class=\"text-[#72a65c]\">with Opportunity.</span></h2>\r\n<p class=\"text-gray-600 leading-9 mb-7\">Impact empowers communities through meaningful initiatives and lasting partnerships.</p>",
+        "format": "nonprofit_html"
+      },
+      "fields": {
+        "field_hero_label": "About Us / Our Mission",
+        "field_hero_primary_link": {
+          "title": "More About Our Organization →",
+          "url": "<front>"
+        },
+        "field_image": "photo-1529156069898-49953e39b3ac.jpg",
+        "field_hero_show_about": 1,
+        "field_hero_statistics": [
+          {
+            "type": "statistic",
+            "title": "Our Vision"
+          },
+          {
+            "type": "statistic",
+            "title": "Our Mission"
+          }
+        ]
+      }
+    },
+    {
+      "type": "card",
+      "title": "Volunteering & Participation",
+      "path": "cards/volunteering-participation",
+      "status": 1,
+      "promote": 0,
+      "body": {
+        "value": "Meaningful volunteer opportunities that give everyone a chance to help create positive change.",
+        "format": "filtered_html"
+      },
+      "fields": {
+        "field_card_icon": "♡",
+        "field_card_link": {
+          "title": "Join Us →",
+          "url": "<front>"
+        },
+        "field_card3_home": 1
+      }
+    },
+    {
+      "type": "card",
+      "title": "Community Development",
+      "path": "cards/community-development",
+      "status": 1,
+      "promote": 0,
+      "body": {
+        "value": "Initiatives that improve quality of life and strengthen connections and solidarity within the community.",
+        "format": "filtered_html"
+      },
+      "fields": {
+        "field_card_icon": "♧",
+        "field_card_link": {
+          "title": "Explore Initiatives →",
+          "url": "<front>"
+        },
+        "field_card3_home": 1
+      }
+    },
+    {
+      "type": "card",
+      "title": "Education & Empowerment",
+      "path": "cards/education-empowerment",
+      "status": 1,
+      "promote": 0,
+      "body": {
+        "value": "Educational and training programs that open new opportunities for young people and those eager to learn.",
+        "format": "filtered_html"
+      },
+      "fields": {
+        "field_card_icon": "✎",
+        "field_card_link": {
+          "title": "Explore Initiatives →",
+          "url": "<front>"
+        },
+        "field_card3_home": 1
+      }
+    },
+    {
+      "type": "initiative",
+      "title": "Learning Opportunities for All",
+      "path": "initiatives/learning-opportunities-for-all",
+      "status": 1,
+      "promote": 0,
+      "body": {
+        "value": "We open the doors to knowledge and skills for people from all walks of life.",
+        "format": "filtered_html"
+      },
+      "fields": {
+        "field_image": "photo-1509062522246-3755977927d7.jpg",        
+        "field_initiative_category": {
+          "vocabulary": "initiative",
+          "name": "Education & Empowerment"
+        },
+        "field_initiative_home": 1
+      }
+    },
+    {
+      "type": "initiative",
+      "title": "A Better Community Initiative",
+      "path": "initiatives/a-better-community",
+      "status": 1,
+      "promote": 0,
+      "body": {
+        "value": "We foster cooperation and shared responsibility in our neighborhoods.",
+        "format": "filtered_html"
+      },
+      "fields": {
+        "field_image": "photo-1559027615-cd4628902d4a.jpg",        
+        "field_initiative_category": {
+          "vocabulary": "initiative",
+          "name": "Community Development"
+        },
+        "field_initiative_home": 1
+      }
+    },
+    {
+      "type": "initiative",
+      "title": "Volunteer Impact Ambassadors",
+      "path": "initiatives/volunteer-impact-ambassadors",
+      "status": 1,
+      "promote": 0,
+      "body": {
+        "value": "We empower volunteers to lead initiatives that make a tangible difference.",
+        "format": "filtered_html"
+      },
+      "fields": {
+        "field_image": "photo-1527525443983-6e60c75fff46.jpg",       
+        "field_initiative_category": {
+          "vocabulary": "initiative",
+          "name": "Volunteering & Engagement"
+        },
+        "field_initiative_home": 1
+      }
+    },
+    {
+      "type": "post",
+      "title": "New Program Launched to Support Community Initiatives",
+      "path": "news/new-program-support-community-initiatives",
+      "status": 1,
+      "promote": 0,
+      "fields": {
+        "field_image": "photo-1511632765486-a01980e01a18.jpg",
+        "field_news_categories":{
+          "vocabulary": "news",
+          "name": "Organization News"
+        },
+        "field_news_home": 1
+      }
+    },
+    {
+      "type": "post",
+      "title": "Our Volunteers Share Their Experiences in Making a Difference",
+      "path": "news/volunteers-share-their-experiences",
+      "status": 1,
+      "promote": 0,
+      "body": {
+        "value": "Our volunteers share their experiences in making a difference. Our volunteers share their experiences in making a difference. Our volunteers share their experiences in making a difference. Our volunteers share their experiences in making a difference. Our volunteers share their experiences in making a difference.",
+        "format": "filtered_html"
+      },
+      "fields": {
+        "field_image": "photo-1528605248644-14dd04022da1.jpg",
+        "field_news_categories": {
+          "vocabulary": "news",
+          "name": "Impact Stories"
+        },
+        "field_news_home": 1
+      }
+    }
+  ]
+}

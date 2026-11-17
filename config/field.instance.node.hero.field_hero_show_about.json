@@ -1,0 +1,36 @@
+{
+    "_config_name": "field.instance.node.hero.field_hero_show_about",
+    "field_name": "field_hero_show_about",
+    "entity_type": "node",
+    "bundle": "hero",
+    "label": "Show About Us Section",
+    "widget": {
+        "weight": "10",
+        "type": "options_onoff",
+        "module": "options",
+        "active": 1,
+        "settings": {
+            "display_label": 0
+        }
+    },
+    "description": "Select only one item to display in the About Us section on the homepage.",
+    "required": 0,
+    "deleted": 0,
+    "default_value": [
+        {
+            "value": 0
+        }
+    ],
+    "default_value_function": null,
+    "settings": {
+        "user_register_form": false
+    },
+    "display": {
+        "default": {
+            "label": "hidden",
+            "type": "hidden",
+            "weight": "2",
+            "settings": []
+        }
+    }
+}

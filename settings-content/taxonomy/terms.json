@@ -1,0 +1,39 @@
+{
+  "terms": [
+    {
+      "vocabulary": "initiative",
+      "name": "Volunteering & Engagement",
+      "description": "",
+      "weight": 0,
+      "path": "volunteering-engagement"
+    },
+    {
+      "vocabulary": "initiative",
+      "name": "Education & Empowerment",
+      "description": "",
+      "weight": 0,
+      "path": "education-empowerment"
+    },    
+    {
+      "vocabulary": "initiative",
+      "name": "Community Development",
+      "description": "",
+      "weight": 0,
+      "path": "community-development"
+    },    
+    {
+      "vocabulary": "news",
+      "name": "Organization News",
+      "description": "",
+      "weight": 0,
+      "path": "organization-news"
+    },   
+    {
+      "vocabulary": "news",
+      "name": "Impact Stories",
+      "description": "",
+      "weight": 0,
+      "path": "impact-stories"
+    }
+  ]
+}

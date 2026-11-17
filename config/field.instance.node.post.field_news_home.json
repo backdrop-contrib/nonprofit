@@ -1,0 +1,36 @@
+{
+    "_config_name": "field.instance.node.post.field_news_home",
+    "field_name": "field_news_home",
+    "entity_type": "node",
+    "bundle": "post",
+    "label": "Show in News and Inspiring Stories",
+    "widget": {
+        "weight": "1",
+        "type": "options_onoff",
+        "module": "options",
+        "active": 1,
+        "settings": {
+            "display_label": 0
+        }
+    },
+    "description": "Show this content in the News and Stories section. Please select only two items.",
+    "required": 0,
+    "deleted": 0,
+    "default_value": [
+        {
+            "value": 0
+        }
+    ],
+    "default_value_function": null,
+    "settings": {
+        "user_register_form": false
+    },
+    "display": {
+        "default": {
+            "label": "hidden",
+            "type": "hidden",
+            "weight": "2",
+            "settings": []
+        }
+    }
+}

@@ -1,0 +1,198 @@
+{
+  "layouts": [
+    {
+      "name": "home",
+      "blocks": [
+        {
+          "action": "remove",
+          "plugin": "layout:hero"
+        },
+        {
+          "action": "remove",
+          "plugin": "views:promoted_cards-block"
+        },   
+        {
+          "action": "remove",
+          "plugin": "views:promoted-block"
+        },             
+        {
+          "action": "add",
+          "plugin": "system:main-menu",
+          "region": "header",
+          "position": 1
+        },
+        {
+          "action": "add",
+          "plugin": "block:top_header",
+          "region": "header",
+          "position": 0
+        },
+        {
+          "action": "add",
+          "plugin": "system:header",
+          "region": "header",
+          "position": 1
+        },  
+        {
+          "action": "add",
+          "plugin": "block:join_us",
+          "region": "header"
+        },         
+        {
+          "action": "add",
+          "plugin": "views:home_hero-block",
+          "region": "top",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 0
+        },
+        {
+          "action": "add",
+          "plugin": "views:hero_show_statistics-block",
+          "region": "top",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 1
+        },
+        {
+          "action": "add",
+          "plugin": "views:home_about-block",
+          "region": "top",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 2
+        },
+        {
+          "action": "add",
+          "plugin": "views:home_services-block",
+          "region": "top",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 3
+        },
+        {
+          "action": "add",
+          "plugin": "views:initiatives_block-block",
+          "region": "top",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 4
+        },
+        {
+          "action": "add",
+          "plugin": "block:athrna_ykbr_bandmamk_alyna",
+          "region": "top",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 5
+        },         
+        {
+          "action": "add",
+          "plugin": "views:news_home-block",
+          "region": "top",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 6
+        },         
+        {
+          "action": "add",
+          "plugin": "block:lnbni_athrana_akbr_m_ana",
+          "region": "bottom",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 0
+        },          
+        {
+          "action": "add",
+          "plugin": "block:athr_asfl_almwq",
+          "region": "footer",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 0
+        },
+        {
+          "action": "add",
+          "plugin": "menu:important-links",
+          "region": "footer",
+          "position": 1
+        }, 
+        {
+          "action": "add",
+          "plugin": "block:twasl_m_na",
+          "region": "footer",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 2
+        }, 
+        {
+          "action": "add",
+          "plugin": "system:powered-by",
+          "region": "footer",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 3
+        }                                                                                                 
+      ]   
+    },
+    {
+      "name": "default",
+      "blocks": [
+        {
+          "action": "add",
+          "plugin": "block:top_header",
+          "region": "header",
+          "position": 0
+        },
+        {
+          "action": "add",
+          "plugin": "block:join_us",
+          "region": "header"
+        },        
+        {
+          "action": "add",
+          "plugin": "block:athr_asfl_almwq",
+          "region": "footer",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 0
+        },
+        {
+          "action": "add",
+          "plugin": "menu:important-links",
+          "region": "footer",
+          "position": 1
+        }, 
+        {
+          "action": "add",
+          "plugin": "block:twasl_m_na",
+          "region": "footer",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 2
+        }, 
+        {
+          "action": "add",
+          "plugin": "system:powered-by",
+          "region": "footer",
+           "settings": {
+            "title_display": "none"
+          },
+          "position": 3
+        }       
+      ]  
+    }    
+  ]
+}

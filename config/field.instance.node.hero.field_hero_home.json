@@ -1,0 +1,36 @@
+{
+    "_config_name": "field.instance.node.hero.field_hero_home",
+    "field_name": "field_hero_home",
+    "entity_type": "node",
+    "bundle": "hero",
+    "label": "Show on the Homepage",
+    "widget": {
+        "weight": "8",
+        "type": "options_onoff",
+        "module": "options",
+        "active": 1,
+        "settings": {
+            "display_label": 0
+        }
+    },
+    "description": "Please select only one item to display on the homepage.",
+    "required": 0,
+    "deleted": 0,
+    "default_value": [
+        {
+            "value": 0
+        }
+    ],
+    "default_value_function": null,
+    "settings": {
+        "user_register_form": false
+    },
+    "display": {
+        "default": {
+            "label": "hidden",
+            "type": "hidden",
+            "weight": "2",
+            "settings": []
+        }
+    }
+}

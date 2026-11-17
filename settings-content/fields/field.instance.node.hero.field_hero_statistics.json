@@ -1,0 +1,41 @@
+{
+    "_config_name": "field.instance.node.hero.field_hero_statistics",
+    "field_name": "field_hero_statistics",
+    "entity_type": "node",
+    "bundle": "hero",
+    "label": "حقل الاحصائيه",
+    "widget": {
+        "weight": "11",
+        "type": "entityreference_autocomplete",
+        "module": "entityreference",
+        "active": 1,
+        "settings": {
+            "match_operator": "CONTAINS",
+            "size": "60",
+            "hide_ids": 0,
+            "path": ""
+        }
+    },
+    "description": "",
+    "required": 0,
+    "deleted": 0,
+    "default_value": null,
+    "default_value_function": null,
+    "settings": {
+        "user_register_form": false
+    },
+    "display": {
+        "default": {
+            "label": "hidden",
+            "type": "entityreference_entity_view",
+            "weight": "9",
+            "settings": {
+                "view_mode": "default",
+                "links": 0,
+                "use_content_language": 0,
+                "hide_title": 0
+            },
+            "module": "entityreference"
+        }
+    }
+}
