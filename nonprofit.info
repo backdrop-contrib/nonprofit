@@ -2,7 +2,7 @@ type = theme
 name = Nonprofit
 description = A modern, responsive theme for nonprofit organizations powered by Tailwind CSS v3.
 backdrop = 1.x
-version = BACKDROP_VERSION
+
 
 ; Add theme CSS files
 stylesheets[all][] = css/tailwindcss.min.css
@@ -15,5 +15,5 @@ settings[site_background] = ""
 settings[toggle_dark_mode] = 1
 settings[toggle_breadcrumb] = 1
 settings[hide_home_breadcrumb] = 0
-; Added by Backdrop CMS packaging script on 2026-10-30
+
 
