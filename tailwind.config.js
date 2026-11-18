@@ -7,6 +7,7 @@ module.exports = {
     "./template.php",
     "./js/**/*.js",
     "./src/safelist.txt",
+    "./src/safelist-settings.txt",
   ],
   theme: {
     extend: {
