@@ -72,6 +72,19 @@ Feedback, bug reports, accessibility improvements, translations, and code contri
 
 For improvements to the setup library itself, visit [Backdrop Theme Setup](https://github.com/shabib-m/backdrop_theme_setup).
 
-## License
+Current Maintainers
+-------------------
 
-This project is intended for the Backdrop CMS open-source ecosystem. See the repository's license file for the applicable terms.
+- [Shabib M](https://github.com/shabib-m)
+- Seeking additional maintainers.
+
+Credits
+-------
+
+- Built for [Backdrop CMS](https://backdropcms.org/).
+
+License
+-------
+
+This project is GPL v2 software.
+See the LICENSE.txt file in this directory for complete text.
