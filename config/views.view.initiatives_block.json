@@ -352,7 +352,7 @@
                         "ui_name": "",
                         "label": "",
                         "empty": 0,
-                        "content": "<div class=\"flex justify-between items-end gap-5 mb-12\"><div><span class=\"text-[#5b8b57] font-extrabold text-sm\">In Action</span><h2 class=\"text-3xl md:text-4xl font-extrabold mt-3\">Initiatives That Make a Difference</h2></div><a href=\"#contact\" class=\"about-link hidden sm:inline-block font-bold border-b-2 border-lime pb-2\">All Initiatives ←</a></div>",
+                        "content": "<div class=\"flex justify-between items-end gap-5 mb-12\"><div><span class=\"text-[#5b8b57] font-extrabold text-sm\">In Action</span><h2 class=\"text-3xl md:text-4xl font-extrabold mt-3\">Initiatives That Make a Difference</h2></div><a href=\"#contact\" class=\"about-link hidden md:inline-block font-bold border-b-2 border-lime pb-2\">All Initiatives ←</a></div>",
                         "format": "nonprofit_html",
                         "tokenize": 0
                     }
