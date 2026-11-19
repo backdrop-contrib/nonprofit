@@ -25,7 +25,7 @@
         "field_hero_home": 1,
         "field_hero_show_statistics": 0,
         "field_hero_show_about": 0,
-        "field_image": "photo-1559027615-cd4628902d4a.jpg"
+        "field_image": "photo-1559027615-cd4628902d4a.webp"
       }
     },
     {
@@ -132,7 +132,7 @@
           "title": "More About Our Organization →",
           "url": "<front>"
         },
-        "field_image": "photo-1529156069898-49953e39b3ac.jpg",
+        "field_image": "photo-1529156069898-49953e39b3ac.webp",
         "field_hero_show_about": 1,
         "field_hero_statistics": [
           {
@@ -214,7 +214,7 @@
         "format": "filtered_html"
       },
       "fields": {
-        "field_image": "photo-1509062522246-3755977927d7.jpg",        
+        "field_image": "photo-1509062522246-3755977927d7.webp",        
         "field_initiative_category": {
           "vocabulary": "initiative",
           "name": "Education & Empowerment"
@@ -233,7 +233,7 @@
         "format": "filtered_html"
       },
       "fields": {
-        "field_image": "photo-1559027615-cd4628902d4a.jpg",        
+        "field_image": "photo-1559027615-cd4628902d4a.webp",        
         "field_initiative_category": {
           "vocabulary": "initiative",
           "name": "Community Development"
@@ -252,7 +252,7 @@
         "format": "filtered_html"
       },
       "fields": {
-        "field_image": "photo-1527525443983-6e60c75fff46.jpg",       
+        "field_image": "photo-1527525443983-6e60c75fff46.webp",       
         "field_initiative_category": {
           "vocabulary": "initiative",
           "name": "Volunteering & Engagement"
@@ -267,7 +267,7 @@
       "status": 1,
       "promote": 0,
       "fields": {
-        "field_image": "photo-1511632765486-a01980e01a18.jpg",
+        "field_image": "photo-1511632765486-a01980e01a18.webp",
         "field_news_categories":{
           "vocabulary": "news",
           "name": "Organization News"
@@ -286,7 +286,7 @@
         "format": "filtered_html"
       },
       "fields": {
-        "field_image": "photo-1528605248644-14dd04022da1.jpg",
+        "field_image": "photo-1528605248644-14dd04022da1.webp",
         "field_news_categories": {
           "vocabulary": "news",
           "name": "Impact Stories"
